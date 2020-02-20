@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>2012 Earthquakes, Magnitude 5</name>
+        <atom:author>
+            <atom:name>U.S. Geological Survey</atom:name>
+        </atom:author>
+        <atom:link href="http://earthquake.usgs.gov"/>
+        <Folder>
+            <name>Magnitude 5</name>
+            <Placemark id="andhraPradesh">
+                <name>M 5 - 2012 Dec 30, ANDHRA PRADESH, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>79.74,15.91,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="arunachalPradesh">
+                <name>M 5 - 2012 Dec 30, ARUNACHAL PRADESH, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>94.72,28.21,0</coordinates>
+                </Point>
+            </Placemark>
+
+            <Placemark id="assam">
+                <name>M 5 - 2012 Dec 30, ASSAM, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>92.93,26.20,0</coordinates>
+                </Point>
+            </Placemark>
+
+            <Placemark id="bihar">
+                <name>M 5 - 2012 Dec 30, BIHAR, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>85.31,25.09,0</coordinates>
+                </Point>
+            </Placemark>
+
+            <Placemark id="chhattisgarh">
+                <name>M 5 - 2012 Dec 30, CHHATTISGARH, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>81.86,21.27,0</coordinates>
+                </Point>
+            </Placemark>
+
+            <Placemark id="goa">
+                <name>M 5 - 2012 Dec 30, GOA, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>74.12,15.29,0</coordinates>
+                </Point>
+            </Placemark>
+
+             <Placemark id="gujrat">
+                <name>M 5 - 2012 Dec 30, GUJRAT, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>71.19,22.25,0</coordinates>
+                </Point>
+            </Placemark>
+
+
+            <Placemark id="punjab">
+                <name>M 5 - 2012 Dec 30, PUNJAB, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>75.34,31.14,0</coordinates>
+                </Point>
+            </Placemark>
+             <Placemark id="2011 Dec 30 07:56:52.07 UTC">
+                <name>M 5 - 2012 Dec 30, RAJASTHAN, INDIA</name>
+                <magnitude>5</magnitude>
+                <Point>
+                    <coordinates>73.084561,26.200697,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
